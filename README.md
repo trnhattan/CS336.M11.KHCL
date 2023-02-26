@@ -1,7 +1,7 @@
 # CS336.M11.KHCL - Multimedia Information Retrieval
-![](https://img.shields.io/badge/Status-working-brightgreen) [![](https://img.shields.io/badge/Contributors-3-brightgreen)](https://github.com/trnhattan/CS336.M11.KHCL/graphs/contributors)
+![](https://img.shields.io/badge/Status-Done-brightgreen) [![](https://img.shields.io/badge/Contributors-3-brightgreen)](https://github.com/trnhattan/CS336.M11.KHCL/graphs/contributors)
 ## Lecturer:
-- **Dr. Ngo Duc Thanh**   
+- **PhD. Ngo Duc Thanh**   
 ---
 
 ## Team member:
@@ -46,3 +46,6 @@ CS336.M11.KHCL
 │       radcliffe_camera_4_query.jpg
 │       radcliffe_camera_5_query.jpg
 ```
+---
+# Demo
+https://huggingface.co/spaces/Lavatus/RetrieValSystem
